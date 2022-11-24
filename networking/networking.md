@@ -1,0 +1,9 @@
+networking
+https://www.google.com/search?q=firewall&rlz=1C1VDKB_enCA1007CA1007&oq=firewall&aqs=chrome..69i57j0i512l9.2632j1j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=tcp%2Fip&rlz=1C1VDKB_enCA1007CA1007&oq=tcp%2Fip&aqs=chrome..69i57j0i512l6j69i58.3564j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=ethernet&rlz=1C1VDKB_enCA1007CA1007&oq=ethernet&aqs=chrome..69i57j0i67i433j0i67l5j0i131i433i512j0i512j0i433i512.3842j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=network+switch&rlz=1C1VDKB_enCA1007CA1007&oq=network+sw&aqs=chrome.1.69i57j0i67i433j0i512l8.3993j0j7&sourceid=chrome&ie=UTF-8	
+https://www.google.com/search?q=router&rlz=1C1VDKB_enCA1007CA1007&oq=router&aqs=chrome..69i57j0i67l2j69i59j0i67j0i67i433j0i67j69i61.3129j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=poe&rlz=1C1VDKB_enCA1007CA1007&oq=poe&aqs=chrome..69i57.755j0j7&sourceid=chrome&ie=UTF-8	
+https://www.google.com/search?q=traffic+analysiss&rlz=1C1VDKB_enCA1007CA1007&oq=traffic+analysiss&aqs=chrome..69i57j0i13i512l9.4077j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=router+architecture&rlz=1C1VDKB_enCA1007CA1007&oq=router+archi&aqs=chrome.0.0i512j69i57j0i512l2j0i22i30l3j0i15i22i30j0i10i15i22i30j0i22i30.6551j0j7&sourceid=chrome&ie=UTF-8
