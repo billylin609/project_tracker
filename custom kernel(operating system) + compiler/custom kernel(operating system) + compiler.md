@@ -33,3 +33,6 @@ custom kernel(operating system) + compiler
 	11. BSD licensing: https://en.wikipedia.org/wiki/BSD_licenses
 	12. ssvep protocol: https://www.google.com/search?q=ssvep&rlz=1C1CHBF_enCA952CA952&oq=ssve&aqs=chrome.1.69i57j0i512j0i10i512j0i512l2j0i10i512j0i10i131i433i512j0i433j0i10i512j0i10i131i433i512.4795j0j7&sourceid=chrome&ie=UTF-8
 	13. building custom programming language: https://www.amazon.ca/dp/1800204809/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDOUZIS1o2V0paQUUmZW5jcnlwdGVkSWQ9QTAyNDI2NTIxNVU3T0VRUFJISVNRJmVuY3J5cHRlZEFkSWQ9QTA3MDAxNzI5Q1BQNlNWSVk4OTkmd2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVkJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+	14. instruction set want to be free
+	 https://riscv.or.jp/wp-content/uploads/RISCV-20200918-Vietnam-Day.pdf
+	15. arm a cortex https://developer.arm.com/documentation/ddi0602/2022-09/Base-Instructions?lang=en

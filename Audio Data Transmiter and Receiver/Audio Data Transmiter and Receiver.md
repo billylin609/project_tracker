@@ -25,6 +25,8 @@ Things need to understand:
 	6. active noise cancellation
 		https://cgpit-bardoli.edu.in/wp-content/uploads/2019/02/Active_Noise_Control_Using_LMS___NLMS-Algorithm.pdf
 		
+		**https://towardsdatascience.com/real-time-noise-suppression-using-deep-learning-38719819e051**
+		
 incorporate a finite state machine
 	when not paired
 	when paired

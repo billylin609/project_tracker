@@ -11,3 +11,8 @@ antenna < = decoder < = router
 The current situation use ipsec
 
 site to site communication
+
+port forwarding
+
+does an open network mean that an address as an interface that can be access by any device
+
