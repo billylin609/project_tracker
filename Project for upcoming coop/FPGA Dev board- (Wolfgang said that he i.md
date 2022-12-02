@@ -1,6 +1,15 @@
 FPGA Dev board: (Wolfgang said that he is willing to help)
 if any question direct message
 
+rmr: this is an embedded system
+
+
+altium tutorial:
+https://www.youtube.com/playlist?list=PLXvLToQzgzdfKKQn2wmpuSXz6sROQmO6R
+
+electrical review info: 
+https://www.youtube.com/watch?v=iyG9_UFJVoI&list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9&index=5&ab_channel=ElectroBOOM
+
 FPGA need a hardware dev board
 and then can use the verilog or other hardware programming language to use the fpga properly
 
