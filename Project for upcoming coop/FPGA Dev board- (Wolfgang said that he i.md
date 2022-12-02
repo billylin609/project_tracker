@@ -39,3 +39,6 @@ https://learn.sparkfun.com/tutorials/programming-an-fpga/all
 
 further reading: 
 instead of using an MCU maybe consider using an ASIC(circuit that only do a specific job e.g a buck converter)
+
+code Fronted with LLVM
+https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl03.html
