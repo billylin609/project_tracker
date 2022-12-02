@@ -27,4 +27,18 @@ FPGA can programmed into any possible function
 		do not need to modify the circuit for every change
 		run faster
 		lose functionality after power off (voliate RAM)
+		
+FPGA vendor:
+Xilinx Altera Lattice Actel
+
+FPGA vs CPLD
+FPGA more logic blocks 
+FPGA RAM based and CPLD EEPROM based(storage availability after power cycle)
+FPGA support special routing for efficient algorithms
+
+FPGA logic element run in parallel
+micro controller: based on CPU sequential manner => on chip peripheral can be parallel but less configurable (most commonly used devices)
+
+Logic cells:
+
 	
