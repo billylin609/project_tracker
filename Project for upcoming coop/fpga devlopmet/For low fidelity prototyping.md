@@ -41,4 +41,5 @@ micro controller: based on CPU sequential manner => on chip peripheral can be pa
 
 Logic cells:
 
+
 	
