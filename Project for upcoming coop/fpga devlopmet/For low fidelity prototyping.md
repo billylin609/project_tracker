@@ -40,6 +40,7 @@ FPGA logic element run in parallel
 micro controller: based on CPU sequential manner => on chip peripheral can be parallel but less configurable (most commonly used devices)
 
 Logic cells:
-
+http://www.andraka.com/whatLogic.php
+https://www.fpga4fun.com/FPGAinfo2.html
 
 	
