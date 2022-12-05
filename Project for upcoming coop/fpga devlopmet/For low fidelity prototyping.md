@@ -39,6 +39,11 @@ FPGA support special routing for efficient algorithms
 FPGA logic element run in parallel
 micro controller: based on CPU sequential manner => on chip peripheral can be parallel but less configurable (most commonly used devices)
 
+note: mosfet is commonly used especially n-fet
+More importantly BJT transistor are able to change the output by using pwm generation
+
+note: learn DC offset + saturation
+
 Logic cells:
 http://www.andraka.com/whatLogic.php
 https://www.fpga4fun.com/FPGAinfo2.html

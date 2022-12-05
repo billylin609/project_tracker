@@ -1,5 +1,11 @@
-%matrix = randi ([-10, 10], [2, 2]);
+rng(14)
 
-%writematrix(matrix, 'question3_generate.txt')
+matrix = randi ([-10, 10], [2, 2]);
 
-matrix = readmatrix("question3_generate.txt")
+writematrix(matrix, 'question3_generate.txt')
+
+%matrix = readmatrix("question3_generate.txt")
+
+det (matrix)
+
+rank (matrix)
