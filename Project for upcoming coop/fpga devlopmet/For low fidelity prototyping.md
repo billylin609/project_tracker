@@ -47,5 +47,10 @@ note: learn DC offset + saturation
 Logic cells:
 http://www.andraka.com/whatLogic.php
 https://www.fpga4fun.com/FPGAinfo2.html
+= look up table (LUT) + D flip flop 
+
+logic cells interconnected: and input and output will be controlled by the IO cells connected to fpga cells
+
+better implementation (e.g: carry chain are used for arithmetic efficiency)
 
 	
