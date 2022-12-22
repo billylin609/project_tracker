@@ -13,6 +13,10 @@ fn main() {
         .expect("Failed to read the file");
 
     file_data.push('\n');
+
+    let mut result = extract_data(&file_data);
+    let score = updated_score(& mut result);
+    println!("the score is: {}", score);
 }
 
 fn file_test (source_dir: & String) -> File {
@@ -71,6 +75,33 @@ fn extract_data(file_data:& String) -> Vec<EachInput> {
     return vec_all;
 }
 
+fn updated_score (data_info:& mut Vec<EachInput>) -> i64 {
+    let mut score: i64 = 0;
+    let mut type_score: i8;
+    for item in data_info {
+        type_score = match item.you {
+            1 => -1,
+            2 => 0,
+            3 => 1,
+            _ => panic!("value out of bound"),
+        };
+        type_score = type_score + item.opponent;
+        if type_score == 0 {
+            type_score = 3;
+        } else if type_score == 4 {
+            type_score = 1;
+        }
+        item.you = match item.you {
+            1 => 0,
+            2 => 3,
+            3 => 6,
+            _ => panic!("unknown caputer"),
+        };
+        score = type_score as i64 + item.you as i64 + score;
+    }
+    return score;
+}
+
 /*
  * the following are the possibility can might appear
  * 1 rock vs 2 paper 2-1 = 1 win   1-2 =-1 lose
@@ -100,7 +131,7 @@ mod tests {
 
     #[test]
     fn correct_data() {
-        let mut test = extract_data(&"A Y\nC X\nB Z\n".to_string());
+        let test = extract_data(&"A Y\nC X\nB Z\n".to_string());
         let mut index = 1;
         for item in &test {
            if index == 1 {
@@ -131,5 +162,18 @@ mod tests {
         let result = extract_data(&file_data);
         let score = score_calc(&result);
         assert_eq!(15, score);
+    }
+
+    #[test]
+    fn updated_correct_score() { 
+        let mut file_data = String::new();
+        file_test(&"DropHere/example_test.txt".to_string()).read_to_string(& mut file_data)
+            .expect("Failed to read the file");
+
+        file_data.push('\n');
+
+        let mut result = extract_data(&file_data);
+        let score = updated_score(& mut result);
+        assert_eq!(12, score);
     }
 }
