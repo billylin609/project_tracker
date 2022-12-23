@@ -23,5 +23,11 @@ fn file_test (source_dir: & String) -> File {
 }
 
 fn extract_data (file_data: & String) -> Vec<EachInstance> {
-    
+   for character in file_data.chars() {
+       if character != '\n' {
+            temp_string.push(character);
+       } else {
+           temp_string.len();
+       }
+   }
 }
