@@ -55,4 +55,5 @@ better implementation (e.g: carry chain are used for arithmetic efficiency)
 https://www.engr.siu.edu/haibo/ece428/notes/ece428_logcell.pdf
 https://www.electronicshub.org/multiplexerandmultiplexing/#:~:text=A%202%2Dto%2D1%20multiplexer,needed%20to%20do%20these%20operations.
 
+
 	
