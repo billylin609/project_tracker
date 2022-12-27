@@ -11,3 +11,12 @@ https://docs.rs/tui/latest/tui/
 
 without using rust the bios like gui:
 https://github.com/gui-cs/Terminal.Gui
+
+using a state machine might be able to help to tackle the complexity in ui control
+https://medium.com/@carloslfu/tackling-ui-complexity-with-state-machines-b3f1eb6d1a97  
+
+state machine in rust
+https://hoverbear.org/blog/rust-state-machine-pattern/
+
+awesome tui support
+https://github.com/rothgar/awesome-tuis

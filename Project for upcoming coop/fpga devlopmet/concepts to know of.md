@@ -21,3 +21,5 @@ logic cells is grouped into logic blocks to create FPGA fabric
 can use FPGA to create soft core to simulate general used processor
 however MCU is design to use the current capacity to achieve all the design purpose
 FPGA can configured to a specific use or a general one
+
+is it possible to decode the hdmi single to lcd display human readable
