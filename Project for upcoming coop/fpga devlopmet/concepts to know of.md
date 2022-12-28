@@ -23,3 +23,4 @@ however MCU is design to use the current capacity to achieve all the design purp
 FPGA can configured to a specific use or a general one
 
 is it possible to decode the hdmi single to lcd display human readable
+document: https://prodigytechno.com/hdmi-protocol/#:~:text=The%20HDMI%20link%20operates%20in,using%20a%20series%20of%20packets.	
